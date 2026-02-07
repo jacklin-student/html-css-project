@@ -1,0 +1,155 @@
+/* style.css */
+
+.shop-container{
+ font-size: 30px;
+ padding-bottom: 10px;
+}
+
+nav a{
+  margin-left:30px;
+  font-size:20px;
+  text-decoration: none;
+  color:black;
+  padding-left:30px;
+}
+
+nav a:hover{
+  text-decoration:underline;
+}
+
+.header{
+align-items:center;
+padding:20px;
+margin:10px;
+display:flex;
+justify-content:space-around;
+}
+
+.welcome{
+text-align: center;
+font-size: large;
+}
+
+.welcome h1{
+  margin:20px;
+}
+
+.tab{
+  text-align: center;
+  padding:20px;
+ background:beige;
+  border-radius: 10px;
+  margin:10px;
+  width:200px;
+}
+
+.tab-list{
+  padding:20px;
+  display:flex;
+  justify-content:center;
+  gap:auto;
+}
+
+.tab img{
+  width:100%;
+  margin-bottom: 10px;
+  height:auto;
+}
+
+.tabs{
+  padding:40px 20px;
+  text-align: center;
+}
+
+.cart-container{
+  font-size:30px;
+}
+
+.bgcolor{
+  background:palegreen;
+}
+
+
+.mobile{
+  text-align: center;
+  padding:20px;
+  border-radius: 10px;
+  margin:10px;
+  width:200px;
+  background-color: antiquewhite;
+}
+
+.mobile img{
+  width:100%;
+}
+
+.vivo{
+  padding:5px;
+  margin:15px;
+  text-align: center;
+  width:50%;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.qunti{
+  padding: 20px;
+}
+
+.qunti input{
+  width:50%;
+  border-radius:5px;
+}
+
+.vivo:hover{
+  background-color: cadetblue;
+}
+
+.sett-body{
+  background: white;
+}
+
+.sett-container{
+  font-size: 30px;
+}
+
+.setts{
+ padding:40px 20px;
+  text-align: center;  
+}
+
+.shop-container{
+  font-size: 30px;
+}
+
+.proimg{
+  background-color:goldenrod;
+}
+
+.products{
+  padding:40px 20px;
+  text-align: center;
+}
+
+.product{
+  text-align: center;
+  padding:20px;
+  border-radius: 10px;
+  margin:10px;
+  width:100%;
+  box-shadow: 0 5px 10px;
+  background-color:white;
+}
+
+.product-list{
+  padding:20px;
+  display:flex;
+  gap:auto;
+}
+
+button{
+  margin: 10px;
+  border-radius:5px ;
+  background-color:black;
+  background: white;
+}
